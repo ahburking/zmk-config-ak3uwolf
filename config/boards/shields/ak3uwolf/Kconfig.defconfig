@@ -1,0 +1,6 @@
+if SHIELD_AK3UWOLF
+
+config ZMK_KEYBOARD_NAME
+    default "ak3uwolf"
+
+endif
